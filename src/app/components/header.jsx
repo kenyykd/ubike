@@ -18,7 +18,7 @@ export default function Header() {
       <header className={styles.header}>
         <div className={styles.left}>
           <div className={styles.ubikelogo}>
-            <img src="/Ubikelogo.png" alt="logo" className={styles.logo} />
+            <img src="/ubikelogo.png" alt="logo" className={styles.logo} />
           </div>
           <ul className={styles.nav}>
             <li>
